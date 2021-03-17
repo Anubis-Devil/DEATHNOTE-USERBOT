@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![HellBot logo](https://telegra.ph/file/7c1f4bda80cca585d5288.jpg)](https://t.me/DEATHNOTE_USERBOT)
+[![DEATHNOTE logo](https://telegra.ph/file/7c1f4bda80cca585d5288.jpg)](https://t.me/DEATHNOTE_USERBOT)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -44,7 +44,7 @@ Enjoy Your Bot!!💝
 
 Get help regarding setting up 
 
-your Hêllẞø† in our official 
+your DEATHNOTE† in our official 
 
 support Group and get updates
 
@@ -84,13 +84,13 @@ How To Deploy DEATHNOTEBOT.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHellBoy-OP%2FHellBot&template=https%3A%2F%2Fgithub.com%2FHellBoy-OP%2FHellBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href= <a href="https://heroku.com/deploy?template=https://github.com/king-cobra-user/DEATH-NOTE-BOT/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
 
 </a>
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
+<h4 align="center">To host DEATHNOTE locally or on any other VPS, Go to</h4>
 
 <h2 align="center"> <a href="https://github.com/king-cobra-user/DEATH-NOTE-USER-BOT">⚡ VΛDΣЯ REPO ⚡</a></h2>
 
