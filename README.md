@@ -12,7 +12,7 @@
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only official DEATHNOTEUSERBOT Userbot made by #Team_COBRA.
+This is the one and only official DEATHNOTEUSERBOT Userbot made by #Team_Anubis.
 
 Don't forget to star this repo if you liked it.
 
